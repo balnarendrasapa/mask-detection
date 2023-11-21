@@ -1,1 +1,1 @@
-# mask-detection
+# Mask Detection
