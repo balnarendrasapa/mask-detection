@@ -14,5 +14,6 @@ The project is developed in google colab as it provides a free T4-GPU with almos
 
 ## Result
 
-![image](https://github.com/balnarendrasapa/mask-detection/assets/61614290/c4880bb0-6836-4009-ab7e-03d3cb42cf34)
+![image](https://github.com/balnarendrasapa/mask-detection/assets/61614290/694832af-2c82-4718-afe3-c5b93e9dd982)
+
 
