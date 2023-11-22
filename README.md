@@ -11,3 +11,8 @@ The dataset is taken from [here](https://www.kaggle.com/datasets/ashishjangra27/
 <a href="https://colab.research.google.com/github/balnarendrasapa/mask-detection/blob/master/face_mask_detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The project is developed in google colab as it provides a free T4-GPU with almost 15 gb of VRAM. click on the above badge to open the project in the google colab.
+
+## Result
+
+![image](https://github.com/balnarendrasapa/mask-detection/assets/61614290/c4880bb0-6836-4009-ab7e-03d3cb42cf34)
+
